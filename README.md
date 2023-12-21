@@ -1,4 +1,4 @@
-# Links to **interactive** Tableau Dashboards and Visualizations
+# Links to __interactive__ Tableau Dashboards and Visualizations
 
 ## Links to interactive Dashboards
 #### Customer Hierarchies Dashboard 
