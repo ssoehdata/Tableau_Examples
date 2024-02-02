@@ -2,7 +2,7 @@
 
 ## Tableau Links
 ### Customer Hierarchies Dashboard 
-#### <ul><li>This interactive dashboard </li></ul>
+#### <ul><li>This interactive multi-paneled dashboard visualizes sales related data by customers </li></ul>
 
 https://public.tableau.com/app/profile/s.s3416/viz/Customer_Hierarchies_Dashboard/CustomerDashboard 
 
