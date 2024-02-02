@@ -1,6 +1,9 @@
 # Links to __interactive__ Tableau Dashboards and Visualizations
 #### A small selection of some sample visualizations I created with Tableau
 
+![Tableau](https://a11ybadges.com/badge?logo=tableau)
+
+
 ## Tableau Links
 ### Customer Hierarchies Dashboard 
 #### <ul><li>This interactive multi-paneled dashboard visualizes sales related data by customers </li></ul>
