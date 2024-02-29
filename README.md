@@ -4,7 +4,7 @@
 ![Tableau](https://a11ybadges.com/badge?logo=tableau)
 
 
-### Tableau Links to live Dashboards
+##  Links to live Dashboards
 ### Customer Hierarchies Dashboard 
 #### <ul><li>This interactive multi-paneled dashboard visualizes sales related data by customers </li></ul>
 
