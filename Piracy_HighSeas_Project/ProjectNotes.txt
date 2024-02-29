@@ -1,7 +1,17 @@
 Notes on the project: 
 
 Data Set Notes: 
-  The data is publicly available data for Maritime Piracy incidents from 
+  The data is publicly available data for Maritime Piracy incidents from 2001 -2022.
+  File format .csv file
 
 Notes on Data Cleaning and Tools used: 
+    The data required extensive cleaning and formatting. Tooles used for this process included 
+    excel and Tableau. 
+
+Some examples of data cleaning include: 
+  converting date formats
+  renaming columns
+  filtering and removing redundant columns
+  
+    
 
