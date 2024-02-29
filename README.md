@@ -1,4 +1,4 @@
-# Links to __interactive__ Tableau Dashboards and Visualizations
+## Links to __interactive__ Tableau Dashboards and Visualizations
 #### A small selection of some sample visualizations I created with Tableau
 
 ![Tableau](https://a11ybadges.com/badge?logo=tableau)
