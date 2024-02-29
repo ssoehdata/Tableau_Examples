@@ -1,7 +1,7 @@
-Here I will over details about the piracy on the high seas project 
+Notes on the project: 
 
 Data Set Notes: 
-
+  The data is publicly available data for Maritime Piracy incidents from 
 
 Notes on Data Cleaning and Tools used: 
 
