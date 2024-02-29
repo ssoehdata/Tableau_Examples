@@ -1,0 +1,1 @@
+Here I will over details about the piracy on the high seas project 
