@@ -9,7 +9,7 @@ Project Aim:
 
 
 Data Set Notes: 
-  The data is publicly available data for Maritime Piracy incidents from 2001 -2022.
+  The data is publicly available data (source Data.gov) for Maritime Piracy incidents from 2001 - 2022.
   File format .csv file
 
 
