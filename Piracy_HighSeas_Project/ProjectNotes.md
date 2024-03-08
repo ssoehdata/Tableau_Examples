@@ -16,7 +16,7 @@ https://public.tableau.com/app/profile/s.s3416/viz/Piracy_on_the_High_Seas/Story
 
 ### Notes on the project: 
 
-## Project Aim:
+### Project Aims:
   ### My aims for the project were to examine what if any relationships ###existed in the following:
 
        1) Were there any visible trends in the types of ships/cargo involved in incidents of piracy?
