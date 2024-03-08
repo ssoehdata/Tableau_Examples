@@ -27,7 +27,8 @@ https://public.tableau.com/app/profile/s.s3416/viz/Piracy_on_the_High_Seas/Story
   #### File format .csv file
 
 ## Tools and Methods Used:
-### SQL,Excel,Tableau 
+![Tableau](https://a11ybadges.com/badge?logo=tableau)
+### SQL,Excel,
 ### Data Cleaning: 
 ##### Extensive cleaning and formatting was required for the data.
 ##### Examples of the process include:
