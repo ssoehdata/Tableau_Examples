@@ -26,9 +26,8 @@ https://public.tableau.com/app/profile/s.s3416/viz/Piracy_on_the_High_Seas/Story
       
 
 ## Data Set Notes: 
-  ### The data is publicly available data (source Data.gov) for 
-  ### Maritime Piracy incidents from 2001 - 2022.
-  ### File format .csv file
+  #### The data is publicly available data (source Data.gov) for Maritime Piracy incidents from 2001 - 2022.
+  #### File format .csv file
 
 
 
