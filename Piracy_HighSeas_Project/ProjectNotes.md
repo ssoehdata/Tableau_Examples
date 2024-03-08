@@ -3,13 +3,11 @@
 ### Piracy on the High Seas Storyboard 
 #### <ul>This project examined incidence of piracy in maritime shipping from 2001 - 2022</ul>
 
-###### *(link to live storyboard)*
+
 ![Tableau](https://a11ybadges.com/badge?logo=tableau)
 
-#### <ul><li></ul></li>
 
-
-
+###### *(link to live storyboard)*
 https://public.tableau.com/app/profile/s.s3416/viz/Piracy_on_the_High_Seas/StoryDraft 
 
 
