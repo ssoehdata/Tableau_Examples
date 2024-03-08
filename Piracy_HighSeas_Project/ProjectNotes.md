@@ -6,9 +6,6 @@
 #### Link to live storyboard
 ![Tableau](https://a11ybadges.com/badge?logo=tableau)
 
-
-
-### more text 
 #### <ul><li></ul></li>
 
 
