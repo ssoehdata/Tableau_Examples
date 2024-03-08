@@ -16,10 +16,10 @@ https://public.tableau.com/app/profile/s.s3416/viz/Piracy_on_the_High_Seas/Story
 ### Project Aims:
   ### My aims for the project were to examine what if any relationships ###existed in the following:
 
-#### <nl><li> 1) Were there any visible trends in the types of ships/cargo involved in incidents of piracy?</li></nl>
-#### <nl><li> 2) Are there any geographic trends or "hot spots" of piracy activity?</li></nl>
-#### <nl><li> 3) Are there any observable trends or changes in the number of incidence as a function of time?</li></nl>
-#### <nl><li> 4) What effects do the data tell us about the crews of the ships attacked.</li></nl> 
+#### <nl>1) Were there any visible trends in the types of ships/cargo involved in incidents of piracy?</nl>
+#### <nl> 2) Are there any geographic trends or "hot spots" of piracy activity?</nl>
+#### <nl> 3) Are there any observable trends or changes in the number of incidence as a function of time?</nl>
+#### <nl> 4) What effects do the data tell us about the crews of the ships attacked.</nl> 
   
       
 
