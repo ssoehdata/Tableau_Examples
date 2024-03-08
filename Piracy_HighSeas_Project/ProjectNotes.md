@@ -4,10 +4,7 @@
 #### <ul>This project examined incidence of piracy in maritime shipping from 2001 - 2022</ul>
 
 ###### *(link to live storyboard)*
-https://public.tableau.com/app/profile/s.s3416/viz/Piracy_on_the_High_Seas/StoryDraft 
-
-
-### Project Notes: 
+https://public.tableau.com/app/profile/s.s3416/viz/Piracy_on_the_High_Seas/StoryDraft  
 
 ### Project Aims:
   ### My aims for the project were to examine what if any relationships existed in the following:
