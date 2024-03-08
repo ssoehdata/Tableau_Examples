@@ -1,1 +1,1 @@
-Here I will add notes on the project
+This is an example of a Control Chart with adjustable Standard Deviations.
