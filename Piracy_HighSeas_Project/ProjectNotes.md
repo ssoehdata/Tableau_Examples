@@ -1,5 +1,4 @@
-### Project Notes 
-### Piracy on the High Seas Storyboard 
+### Project Notes for the Piracy on the High Seas Storyboard 
 #### <ul>This project examined incidence of piracy in maritime shipping from 2001 - 2022</ul>
 
 ###### *(link to live storyboard)*
