@@ -22,10 +22,8 @@ https://public.tableau.com/app/profile/s.s3416/viz/Piracy_on_the_High_Seas/Story
 ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Tableau](https://a11ybadges.com/badge?logo=tableau) 
 
 ### Data Cleaning: 
-##### Extensive cleaning and formatting was required for the data.
-##### Examples of the process include:
-##### Converting date formats
-##### Removiing Redundant entries         
+##### Extensive cleaning and formatting was required for the data. Examples include:
+###### Converting date formats,removiing Redundant entries         
        
 
 Findings and Conclusions:
