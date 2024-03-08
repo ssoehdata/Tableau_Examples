@@ -1,5 +1,5 @@
 ## Project Notes 
-#### <ul><li>This interactive storyboard illustrates incidence of piracy in maritime shipping from 2001 - 2022</li></ul>
+#### <ul>This interactive storyboard illustrates incidence of piracy in maritime shipping from 2001 - 2022</ul>
 
 
 ### Piracy on the High Seas Storyboard 
