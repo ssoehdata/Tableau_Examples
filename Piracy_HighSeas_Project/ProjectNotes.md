@@ -7,10 +7,10 @@ https://public.tableau.com/app/profile/s.s3416/viz/Piracy_on_the_High_Seas/Story
 
 #### Project Aims:
 ##### My aims for the project were to examine what if any relationships existed in the following:
-###### <n1>  1) Are there any visible trends in the types of ships and cargo in piracy incidents?
-###### <n1>  2) Did any geographic trends in the data emerge for incidents of piracy?
-###### <nl> 3) Are there any observable trends or changes in the number of incidence as a function of time?</nl>
-###### <nl> 4) What effects do the data tell us about the crews of the ships attacked.</nl>    
+###### <n1>1) Are there any visible trends in the types of ships and cargo in piracy incidents?
+###### <n1>2) Did any geographic trends in the data emerge for incidents of piracy?
+###### <nl>3) Are there any observable trends or changes in the number of incidence as a function of time?</nl>
+###### <nl>4) What effects do the data tell us about the crews of the ships attacked.</nl>    
 
 #### Data Set: The data is publicly available (source Data.gov) for Maritime Piracy incidents from 2001 - 2022.
 ##### File format .csv file
@@ -21,7 +21,7 @@ https://public.tableau.com/app/profile/s.s3416/viz/Piracy_on_the_High_Seas/Story
 
 ### Data Cleaning: 
 ##### Extensive cleaning and formatting was required for the data. Examples include:
-###### Converting date formats,removiing Redundant entries         
+###### Converting date formats,removiing Redundant entries    
        
 
 Findings and Conclusions:
