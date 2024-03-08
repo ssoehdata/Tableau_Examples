@@ -21,7 +21,7 @@ https://public.tableau.com/app/profile/s.s3416/viz/Piracy_on_the_High_Seas/Story
 
 ### Data Cleaning: 
 ##### Extensive cleaning and formatting was required for the data. Examples include:
-###### Converting date formats,removiing Redundant entries    
+###### Converting date formats, removiing Redundant entries    
        
 
 Findings and Conclusions:
