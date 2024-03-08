@@ -20,24 +20,20 @@ https://public.tableau.com/app/profile/s.s3416/viz/Piracy_on_the_High_Seas/Story
 #### <nl> 2) Are there any geographic trends or "hot spots" of piracy activity?</nl>
 #### <nl> 3) Are there any observable trends or changes in the number of incidence as a function of time?</nl>
 #### <nl> 4) What effects do the data tell us about the crews of the ships attacked.</nl> 
-  
-      
+     
 
 ## Data Set Notes: 
   #### The data is publicly available (source Data.gov) for Maritime Piracy incidents from 2001 - 2022.
   #### File format .csv file
 
-
-
 ## Tools and Methods Used:
-    ### excel and Tableau, xxx. 
-        Notes on the Data Cleaning process.
-
-        The data required extensive cleaning and formatting. 
-        Some examples of data cleaning include: 
-            converting date formats
-            renaming columns
-            filtering and removing redundant columns
+### SQL,Excel,Tableau 
+### Data Cleaning: 
+##### Extensive cleaning and formatting was required for the data.
+##### Examples of the process include:
+##### Converting date formats
+##### Removiing Redundant entries         
+       
 
 Findings and Conclusions:
 
