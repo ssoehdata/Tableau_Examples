@@ -25,5 +25,5 @@ https://public.tableau.com/app/profile/s.s3416/viz/Piracy_on_the_High_Seas/Story
        
 
 Findings and Conclusions:
-####<ul>The majority of incidents from the dataset were for ships/cargo types of xxxxxxxxxxx</ul> 
-####<ul>Geographic "hot-spot" zones are observable in the Tableua storyboard.</ul>
+#### <ul>The majority of incidents from the dataset were for ships/cargo types of xxxxxxxxxxx</ul> 
+#### <ul>Geographic "hot-spot" zones are observable in the Tableua storyboard.</ul>
