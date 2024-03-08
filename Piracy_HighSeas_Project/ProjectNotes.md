@@ -12,7 +12,7 @@ https://public.tableau.com/app/profile/s.s3416/viz/Piracy_on_the_High_Seas/Story
 ###### <nl>4) What effects do the data tell us about the crews of the ships attacked.</nl>    
 
 #### Data Set: The data is publicly available (source Data.gov) for Maritime Piracy incidents from 2001 - 2022.
-##### File format .csv file
+###### File format .csv file
 
 ### Tools and Methods Used:
 ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Tableau](https://a11ybadges.com/badge?logo=tableau) 
