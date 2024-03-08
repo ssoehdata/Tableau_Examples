@@ -22,7 +22,6 @@ https://public.tableau.com/app/profile/s.s3416/viz/Piracy_on_the_High_Seas/Story
 ### Tools and Methods Used:
 ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Tableau](https://a11ybadges.com/badge?logo=tableau) 
 
-### SQL,Excel,
 ### Data Cleaning: 
 ##### Extensive cleaning and formatting was required for the data.
 ##### Examples of the process include:
