@@ -1,13 +1,19 @@
 ## Project Notes 
+
+### Piracy on the High Seas Storyboard 
+#### Link to live storyboard
+#### <ul><li>This interactive storyboard illustrates incidence of piracy in maritime shipping from 2001 - 2022</li></ul>
+
+
+
 ![Tableau](https://a11ybadges.com/badge?logo=tableau)
 
 
-##  Links 
+
 ### more text 
 #### <ul><li></ul></li>
 
-### Piracy on the High Seas Storyboard
-#### <ul><li>This interactive storyboard illustrates incidence of piracy in maritime shipping from 2001 - 2022</li></ul>
+
 
 https://public.tableau.com/app/profile/s.s3416/viz/Piracy_on_the_High_Seas/StoryDraft 
 
