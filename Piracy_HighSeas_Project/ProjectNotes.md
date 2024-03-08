@@ -27,10 +27,8 @@ https://public.tableau.com/app/profile/s.s3416/viz/Piracy_on_the_High_Seas/Story
   #### File format .csv file
 
 ## Tools and Methods Used:
-![PostgreSQL](https://a11ybadges.com/badge?logo=postgresql)  ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![PostgreSQL](https://a11ybadges.com/badge?logo=postgresql) ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Tableau](https://a11ybadges.com/badge?logo=tableau) 
 
-
-![Tableau](https://a11ybadges.com/badge?logo=tableau)
 ### SQL,Excel,
 ### Data Cleaning: 
 ##### Extensive cleaning and formatting was required for the data.
