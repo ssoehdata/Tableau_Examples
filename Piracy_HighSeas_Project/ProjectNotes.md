@@ -23,5 +23,5 @@ https://public.tableau.com/app/profile/s.s3416/viz/Piracy_on_the_High_Seas/Story
 
 ### Findings and Conclusions:
 ###### <ul>The majority of incidents from the dataset were of the following types:</ul>
-###### <li>Bulk Carrier, Container Ships, Tankers, General Cargo Ships</li> 
+###### <ul><li>Bulk Carrier, Container Ships, Tankers, General Cargo Ships</li></ul>
 ###### <ul>Geographic "hot-spot" higher-risk zones were identified and are observable in the Tableua storyboard.</ul>
