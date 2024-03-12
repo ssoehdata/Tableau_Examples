@@ -19,7 +19,7 @@ https://public.tableau.com/app/profile/s.s3416/viz/Piracy_on_the_High_Seas/Story
 
 ### Data Cleaning: 
 ###### Extensive cleaning and formatting was required for the data. Examples include:
-###### Converting date formats, removing Redundant entries          
+###### Converting date formats, removing Redundant entries, standardizing names and spellings        
 
 ### Findings and Conclusions:
 ###### <ul>The majority of incidents from the dataset were of the types: Bulk Carrier, Container Ships, Tankers, General Cargo Ships</ul>
