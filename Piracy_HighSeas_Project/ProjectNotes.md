@@ -25,4 +25,4 @@ https://public.tableau.com/app/profile/s.s3416/viz/Piracy_on_the_High_Seas/Story
 ###### <ul>The majority of incidents from the dataset were of the types: Bulk Carrier, Container Ships, Tankers, General Cargo Ships</ul>
 ###### <ul>Geographic "hot-spot" higher-risk zones were identified and are observable in the Tableua storyboard.</ul>
 ###### <ul>A marked increase in activity is seen in the year 2006, as well as in 2011 with the number of incidence remaining roughly consistent until a small decrease was observed in 2021.</ul>
-###### <ul> Incidents involving hostages showed an increase in 2006 with a peak in numbers at 2011-2012. With the exception of 2015, when no hostage incidents were reported, the number decreased slightly from 2011 and remains roughly consistent until 2021.</ul>
+###### <ul> Incidents involving hostages showed an increase in 2006 with a peak in numbers at 2011-2012. With the exception of 2015, when no hostage incidents were reported, the number decreased slightly from 2011 and remained roughly consistent until 2021.</ul>
