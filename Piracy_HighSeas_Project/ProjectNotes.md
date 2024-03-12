@@ -21,7 +21,7 @@ https://public.tableau.com/app/profile/s.s3416/viz/Piracy_on_the_High_Seas/Story
 ###### Extensive cleaning and formatting was required for the data. Examples include:
 ###### Converting date formats, removing Redundant entries, standardizing names and spellings        
 
-#### Findings and Conclusions:
+#### Findings:
 ###### <ul>The majority of incidents from the dataset were of the types: Bulk Carrier, Container Ships, Tankers, General Cargo Ships</ul>
 ###### <ul>Geographic "hot-spot" higher-risk zones were identified and are observable in the Tableua storyboard.</ul>
 ###### <ul>A marked increase in activity is seen in the year 2006, as well as in 2011 with the number of incidence remaining roughly consistent until a small decrease was observed in 2021.</ul>
