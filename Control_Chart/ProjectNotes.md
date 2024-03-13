@@ -1,15 +1,12 @@
-### Project Notes for the Customer Heiarchies Dashboard 
+### Project Notes for the Control Chart example
 #### <ul>This project examined incidence of piracy in maritime shipping from 2001 - 2022</ul>
 
-###### *(link to live storyboard)*:
+###### *(link to live chart)*:
  
 
 #### Project Aims:
-##### My aims for the project were to examine what if any relationships existed in the following:
-###### <n1>1) notes
-###### <n1>2) 
-###### <nl>3) </nl>
-###### <nl>4) </nl>    
+###### <n1>1) Create an example for a control chart with adjustable 
+  
 
 #### Data Set: The publicly available SuperStores Data set was used.
 ###### File format .csv file
