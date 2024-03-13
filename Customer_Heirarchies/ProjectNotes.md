@@ -6,7 +6,7 @@
 
 #### Project Aims:
 ##### My aims for the project were to examine what if any relationships existed in the following:
-###### <n1>1) notes
+###### <n1>1) Filtering data on an individual customer basis
 ###### <n1>2) 
 ###### <nl>3) </nl>
 ###### <nl>4) </nl>    
