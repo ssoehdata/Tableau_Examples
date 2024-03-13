@@ -8,13 +8,14 @@ https://public.tableau.com/app/profile/s.s3416/viz/ControlChartwithStandardDevia
 #### Project Aims:
 ###### <n1>1) Create an example for a control chart with adjustable Standard Deviation bars  
 
-###### Data from the publicly available Superstore Sales dataset
-###### File format .csv file
 #### Tools and Methods Used:
 ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Tableau](https://a11ybadges.com/badge?logo=tableau) 
-###### Imported .csv data set into Tableau
 
-#### Data Cleaning: 
+###### Dataset: Data from the publicly available Superstore Sales dataset
+
+
+#### Data Import and Cleaning: 
+###### Imported .csv data set into Tableau
 ###### The data set was generally clean and only minor formatting was required.
       
 
