@@ -6,10 +6,8 @@
 
 #### Project Aims:
 ##### My aims for the project were to examine what if any relationships existed in the following:
-###### <n1>1) Demonstrate data filtering data on an individual customer basis
-###### <n1>2) 
-###### <nl>3) </nl>
-###### <nl>4) </nl>    
+###### <n1>1) Demonstrate data filtering data on an individual customer and product basis.
+###### <n1>2) Enable data to be isolated and "drilled-down" on multiple levels across categories.
 
 #### Data Set: The publicly available Superstores Sales Data set was used.
 ###### File format .csv file
