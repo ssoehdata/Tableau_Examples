@@ -11,7 +11,7 @@
 ###### <nl>3) </nl>
 ###### <nl>4) </nl>    
 
-#### Data Set: The publicly available SuperStores Data set was used.
+#### Data Set: The publicly available Superstores Sales Data set was used.
 ###### File format .csv file
 #### Tools and Methods Used:
 ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Tableau](https://a11ybadges.com/badge?logo=tableau) 
