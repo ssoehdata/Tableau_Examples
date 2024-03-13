@@ -2,13 +2,14 @@
 #### <ul>This project examined incidence of piracy in maritime shipping from 2001 - 2022</ul>
 
 ###### *(link to live chart)*:
- 
+#### <ul><li>Example for a Control Chart for Customer Data that includes  adjustable  Standard Deviation Bars</li></ul>
+https://public.tableau.com/app/profile/s.s3416/viz/ControlChartwithStandardDeviations/ControlChartwithStandardDeviations
 
 #### Project Aims:
-###### <n1>1) Create an example for a control chart with adjustable 
+###### <n1>1) Create an example for a control chart with adjustable Standard Deviation bars
   
 
-#### Data Set: The publicly available SuperStores Data set was used.
+#### Data from the publicly avaialable Superstore Sales dataset
 ###### File format .csv file
 #### Tools and Methods Used:
 ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Tableau](https://a11ybadges.com/badge?logo=tableau) 
