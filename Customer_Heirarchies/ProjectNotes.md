@@ -16,11 +16,6 @@
 ###### Imported .csv data set into Tableau
 
 #### Data Cleaning: 
-###### Extensive cleaning and formatting was required for the data. Examples include:
-###### Converting date formats, removing Redundant entries, standardizing names and spellings        
+###### The data required some formatting but was generally clean.
 
-#### Findings:
-###### <ul>The</ul>
-###### <ul>Grd.</ul>
-###### <ul>A  small decrease was observed in 2021.</ul>
-###### <ul> Iroughly consistent until 2021.</ul>
+
