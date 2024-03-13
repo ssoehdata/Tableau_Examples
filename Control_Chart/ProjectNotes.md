@@ -16,11 +16,7 @@ https://public.tableau.com/app/profile/s.s3416/viz/ControlChartwithStandardDevia
 ###### Imported .csv data set into Tableau
 
 #### Data Cleaning: 
-###### Extensive cleaning and formatting was required for the data. Examples include:
-###### Converting date formats, removing Redundant entries, standardizing names and spellings        
+###### The data set was generally clean and only minor formatting was required.
+      
 
-#### Findings:
-###### <ul>The</ul>
-###### <ul>Grd.</ul>
-###### <ul>A  small decrease was observed in 2021.</ul>
-###### <ul> Iroughly consistent until 2021.</ul>
+
