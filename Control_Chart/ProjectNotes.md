@@ -6,10 +6,9 @@
 https://public.tableau.com/app/profile/s.s3416/viz/ControlChartwithStandardDeviations/ControlChartwithStandardDeviations
 
 #### Project Aims:
-###### <n1>1) Create an example for a control chart with adjustable Standard Deviation bars
-  
+###### <n1>1) Create an example for a control chart with adjustable Standard Deviation bars  
 
-#### Data from the publicly avaialable Superstore Sales dataset
+###### Data from the publicly available Superstore Sales dataset
 ###### File format .csv file
 #### Tools and Methods Used:
 ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Tableau](https://a11ybadges.com/badge?logo=tableau) 
