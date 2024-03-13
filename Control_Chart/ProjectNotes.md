@@ -1,8 +1,7 @@
 ### Project Notes for the Control Chart example
-#### <ul>This project examined incidence of piracy in maritime shipping from 2001 - 2022</ul>
+#### <ul>Example for a Control Chart for Customer Data that includes  adjustable  Standard Deviation Bars</ul>
 
 ###### *(link to live chart)*:
-#### <ul>Example for a Control Chart for Customer Data that includes  adjustable  Standard Deviation Bars</ul>
 https://public.tableau.com/app/profile/s.s3416/viz/ControlChartwithStandardDeviations/ControlChartwithStandardDeviations
 
 #### Project Aims:
