@@ -2,7 +2,7 @@
 #### <ul>This project examined incidence of piracy in maritime shipping from 2001 - 2022</ul>
 
 ###### *(link to live chart)*:
-#### <ul><li>Example for a Control Chart for Customer Data that includes  adjustable  Standard Deviation Bars</li></ul>
+#### <ul>Example for a Control Chart for Customer Data that includes  adjustable  Standard Deviation Bars</ul>
 https://public.tableau.com/app/profile/s.s3416/viz/ControlChartwithStandardDeviations/ControlChartwithStandardDeviations
 
 #### Project Aims:
